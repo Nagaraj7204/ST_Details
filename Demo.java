@@ -1,4 +1,3 @@
-package Merge;
 class Course{
     String s1 = "Devops";
     String s2 ="Java";
